@@ -10,3 +10,6 @@ jogo da forca
 	o usuario pode tentar advinhar a palavra
 	o que advinhar a palavra primeiro ganha um ponto
 	um novo selecionado é escolhido
+
+ui 
+	mostrar para selecionar só as letras não escolhidas ainda
