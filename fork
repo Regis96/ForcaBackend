@@ -1,0 +1,12 @@
+jogo da forca
+	usuarios entram
+	limite de x pessoas por sala
+	ao entrar usuarios podem pressionar pronto
+	quando todos os usuarios tiverem prontos,um é selecionado para escolher a palavra
+	o selecionado escolhe uma dica e a palavra
+	todos menos o selecionado,em rodadas,escolhem uma letra pra tentar
+	se a letra estiver certa,ela é revelada na palavra e não pode ser mais escolhida
+	se ela estiver errada,uma parte do bonequinho é arrancada
+	o usuario pode tentar advinhar a palavra
+	o que advinhar a palavra primeiro ganha um ponto
+	um novo selecionado é escolhido
